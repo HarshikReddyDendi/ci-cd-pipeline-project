@@ -10,7 +10,7 @@ a = 10
 b = 20
 
 print("Sum =", a + b)
-get_ipython().system('jupyter nbconvert --to script ci_pipeline.ipynb')
+
 
 
 # In[ ]:
